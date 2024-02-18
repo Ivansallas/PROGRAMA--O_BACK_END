@@ -8,4 +8,4 @@ if gitHub.lower() == "sim":
     print("OK, clonado com sucesso!")
 else:
     print("Tente novamente.")
-    print("Tente novamente.")
+    print("Tente outra vez.")
