@@ -9,5 +9,6 @@ if gitHub.lower() == "sim":
 else:
     print("Tente novamente.")
     print("Tente outra vez.")
-    print("teste.")
+    print("Mostrar resulatado.")
+
 
