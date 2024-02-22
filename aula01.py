@@ -10,5 +10,7 @@ else:
     print("Tente novamente.")
     print("Tente outra vez.")
     print("Mostrar resulatado.")
+    print("Mostrar resulatado.")
+
 
 
